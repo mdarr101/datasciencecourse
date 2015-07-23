@@ -1,3 +1,4 @@
 ## This is a markdown file
 
-Modifying the file.
+1st Modification
+2nd Modification
